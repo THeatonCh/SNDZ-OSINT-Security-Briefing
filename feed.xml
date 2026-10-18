@@ -7,7 +7,7 @@
 <item>
 <title>TEST - Security Daily Brief</title>
 <description>This is a test RSS item.</description>
-<guid>security-test-001</guid>
+<guid isPermaLink="false">security-test-001</guid>
 </item>
 </channel>
 </rss>
