@@ -1,19 +1,13 @@
 <rss version="2.0">
-  <channel>
-    <title>Open Source Security Daily Brief</title>
-    <link>https://example.com/</link>
-    <description>
-      Test feed for daily open-source security briefings.
-    </description>
-    <language>en-gb</language>
-    <item>
-      <title>TEST - Security Daily Brief</title>
-      <description>
-        This is a test RSS item to verify delivery
-        through Microsoft Teams Workflows.
-        No operational intelligence is included.
-      </description>
-      <guid isPermaLink="false">security-test-001</guid>
-    </item>
-  </channel>
+<channel>
+<title>Open Source Security Daily Brief</title>
+<link>https://theatonch.github.io/</link>
+<description>Daily open-source security briefing</description>
+<language>en-gb</language>
+<item>
+<title>TEST - Security Daily Brief</title>
+<description>This is a test RSS item.</description>
+<guid>security-test-001</guid>
+</item>
+</channel>
 </rss>
