@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Open Source Security Daily Brief</title>
+    <link>https://example.com/</link>
+    <description>
+      Test feed for daily open-source security briefings.
+    </description>
+    <language>en-gb</language>
+    <item>
+      <title>TEST - Security Daily Brief</title>
+      <description>
+        This is a test RSS item to verify delivery
+        through Microsoft Teams Workflows.
+        No operational intelligence is included.
+      </description>
+      <guid isPermaLink="false">security-test-001</guid>
+    </item>
+  </channel>
+</rss>
