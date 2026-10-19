@@ -1,19 +1,21 @@
-<rss version="2.0">  
-<item>
-    <title>Sandoz Security Briefing - 19 October 2026</title>
-    <description>Publication test: Confirming successful delivery of the Sandoz Open Source Security Daily Brief through GitHub RSS to Microsoft 365.</description>
-    <guid isPermaLink="false">sndz-brief-2026-10-19-test-002</guid>
-    <pubDate>Mon, 19 Oct 2026 14:00:00 GMT</pubDate>
-</item>
-<channel>
-<title>Open Source Security Daily Brief</title>
-<link>https://theatonch.github.io/</link>
-<description>Daily open-source security briefing</description>
-<language>en-gb</language>
-<item>
-<title>TEST - Security Daily Brief</title>
-<description>This is a test RSS item.</description>
-<guid isPermaLink="false">security-test-001</guid>
-</item>
-</channel>
+<rss version="2.0">
+  <channel>
+    <title>Open Source Security Daily Brief</title>
+    <link>https://theatonch.github.io/SNDZ-OSINT-Security-Briefing/</link>
+    <description>Daily open-source security briefing</description>
+    <language>en-gb</language>
+
+    <item>
+      <title>Sandoz Security Briefing - 19 October 2026</title>
+      <description>Publication test: Confirming successful delivery of the Sandoz Open Source Security Daily Brief through GitHub RSS to Microsoft 365.</description>
+      <guid isPermaLink="false">sndz-brief-2026-10-19-test-002</guid>
+      <pubDate>Mon, 19 Oct 2026 14:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>TEST - Security Daily Brief</title>
+      <description>This is a test RSS item.</description>
+      <guid isPermaLink="false">security-test-001</guid>
+    </item>
+  </channel>
 </rss>
